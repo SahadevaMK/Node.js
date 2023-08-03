@@ -2,6 +2,7 @@
 // in order to build a server we have to do 2 things
 // * first crearte server
 // * and start the server
+// use this inoder to create a server
 
 const http = require('http')
 const url = require('url')
